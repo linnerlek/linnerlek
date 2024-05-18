@@ -11,7 +11,7 @@ Explore my projects below, demonstrating my proficiency in Python, JavaScript, H
 - **Goal**: To implement a Relational Algebra interpreter.
 - **Outcome**: Developed a terminal-based RA-Engine for running relational algebra queries.
 - **Description**: A tool to manipulate and query relational databases via the command line.
-- 
+
 ### Petalville
 - **Language**: Python
 - **Goal**: To create an entire RPG game using only pygame and tiled.
