@@ -1,7 +1,7 @@
 # Welcome to My GitHub Profile!
 
 ## About Me
-I'm a Computer Science student at Georgia State University driven by a passion for leveraging technology to solve real-world problems. Teamwork is at the core of who I am, drawn from my experience as a former cheerleader and team leader. Check out my portfolio website at [linnerlek.com](https://linnerlek.com) to learn more about my journey and skills.
+I'm a Computer Science student at Georgia State University Honors College. My interests lie in developing systems and tools that combine research with practical applications, particularly in data analysis, algorithms, and software development. I enjoy working on collaborative projects that push the boundaries of technology and contribute to real-world problem-solving. Check out my portfolio website at [linnerlek.com](https://linnerlek.com) to learn more about my journey and skills.
 
 ## Projects
 Explore my projects below, demonstrating my proficiency in Python, C, and ASM
