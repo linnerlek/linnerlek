@@ -11,4 +11,9 @@ BiasBreakers is a chat-based game that allows users to experience and respond to
 **Python**-based Relational Algebra interpreter designed for easy execution of relational database queries through the command line. This project provides a terminal-based interface, allowing users to run queries on their databases effortlessly.
 
 
+### [PantherPath](https://github.com/linnerlek/PantherPath)
+Panther Path is a dynamic app designed to help users navigate Georgia State University’s campus with ease. Built with a Swift frontend and a Python backend using SQLite3 for reliable data support. Features include a live tracker for GSU bus routes, a walking buddy feature secured with campusID login for student safety, and a MARTA station locator displaying nearby stations with real-time train arrival information. The app also includes an SOS button for quick contact with GSUPD in case of emergencies, ensuring both convenience and safety for users.
+
+
+
 Thank you for stopping by, and feel free to [connect with me](https://www.linkedin.com/in/linnerlek/) for exciting opportunities or collaborations. Let's build something great together!
