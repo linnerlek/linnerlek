@@ -1,8 +1,14 @@
 # Welcome to My GitHub Profile!
-**CS student at Georgia State University** passionate about building impactful tools and systems. I have experience with cloud-hosted applications, backend development, and leading projects from start to finish.
+**CS student at Georgia State University** passionate about building impactful tools and systems. I have experience with full-stack development, including cloud-hosted applications, backend systems, and responsive frontends. My technical foundation comes from building real projects and competing in hackathons, where I’ve consistently placed in the top 3. I’m driven to create efficient, impactful solutions and always looking for opportunities to bring my skills to the next level.
 
 🔗 Check out my [portfolio](https://linnerlek.com) for more about me.
 # Projects
+## [RA-Viz](http://tinman.cs.gsu.edu:5020/)
+Dash-based tool for visualizing relational algebra queries.
+- Tech: **Python, Flask, Dash, SQLite3, HTML/CSS**
+- Features: Interactive query tree, clickable nodes to view data, schema viewer, and preloaded example queries.
+- Live Demo: [Try Here](http://tinman.cs.gsu.edu:5020/)
+
 ## [BiasBreakers](https://github.com/linnerlek/BiasBreakers)
 An educational game about workplace biases.
 - Second place **winner** at HackHers 2024 Hackathon 🥈
