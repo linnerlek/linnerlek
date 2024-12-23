@@ -12,7 +12,7 @@ Dash-based tool for visualizing relational algebra queries.
 ## [BiasBreakers](https://github.com/linnerlek/BiasBreakers)
 An educational game about workplace biases.
 - Second place **winner** at HackHers 2024 Hackathon 🥈
-- Tech: **Python, Flask, HTML/CSS, Google Cloud**
+- Tech: **Python, Flask, Google Cloud, HTML/CSS**
 - Live Demo: [Play Here](https://empowher-439800.ue.r.appspot.com/)
 
 ## [PantherPath](https://github.com/linnerlek/PantherPath)
