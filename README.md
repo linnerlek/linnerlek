@@ -5,14 +5,14 @@
 # Projects
 ## [RA-Viz](http://tinman.cs.gsu.edu:5020/)
 Dash-based tool for visualizing relational algebra queries.
-- Tech: **Python, Flask, Dash, SQLite3, HTML/CSS**
+- Tech: **Python, HTML/CSS, Dash, Flask, SQLite3**
 - Features: Interactive query tree, clickable nodes to view data, schema viewer, and preloaded example queries.
 - Live Demo: [Try Here](http://tinman.cs.gsu.edu:5020/)
 
 ## [BiasBreakers](https://github.com/linnerlek/BiasBreakers)
 An educational game about workplace biases.
 - Second place **winner** at HackHers 2024 Hackathon 🥈
-- Tech: **Python, Flask, Google Cloud, HTML/CSS**
+- Tech: **Python, Flask, HTML/CSS, Google Cloud**
 - Live Demo: [Play Here](https://empowher-439800.ue.r.appspot.com/)
 
 ## [PantherPath](https://github.com/linnerlek/PantherPath)
