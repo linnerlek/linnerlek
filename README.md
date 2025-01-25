@@ -1,6 +1,4 @@
 # Welcome! 
-Nice to meet you! I'm Linn, originally from Norway and currently based in Atlanta, Georgia. I’m a Computer Science student in the Dual Degree program at Georgia State University. I’m passionate about creating impactful systems and tools, especially in data analysis, algorithms, and software development.
-
 🔗 Check out my [portfolio](https://linnerlek.com)!
 
 ## Projects
@@ -13,7 +11,7 @@ Dash-based tool for visualizing relational algebra queries.
 ### [CoSEA Dashboard](https://github.com/linnerlek/CoSEA-Dash)
 An interactive visualization tool for analyzing Computer Science education access across Georgia High Schools.
 - Tech: **Python, HTML/CSS, Dash, Pandas, Plotly, Shapely**
-- Features: Filter plots, choose preset color and icon overlays
+- Features: Filter plots, choose preset color and icon overlays, view school districts and counties.
 
 ### [BiasBreakers](https://github.com/linnerlek/BiasBreakers)
 An educational game about workplace biases.
