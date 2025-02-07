@@ -4,7 +4,7 @@
 ## Projects
 ### [PySetGo](https://github.com/linnerlek/PySetGo)
 A tool that automates setting up a Python coding environment, designed with educators and students in mind.
-- Tech: Python, PyQt6, Subprocess, Shell Scripting
+- Tech: Python, PyQt6, Shell Scripting
 - Features: one-click Python setup, VS Code & extensions installation, preinstalled Python libraries, no terminal required.
 - **For Users:** Download the latest release from the [Releases Page](https://github.com/linnerlek/PySetGo/releases).
 
