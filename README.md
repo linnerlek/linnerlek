@@ -2,6 +2,12 @@
 🔗 Check out my [portfolio](https://linnerlek.com)!
 
 ## Projects
+### [PySetGo](https://github.com/linnerlek/PySetGo)
+A tool that automates setting up a Python coding environment, designed with educators and students in mind.
+- Tech: Python, PyQt6, Subprocess, Shell Scripting
+- Features: one-click Python setup, VS Code & extensions installation, preinstalled Python libraries, no terminal required.
+- **For Users:** Download the latest release from the [Releases Page](https://github.com/linnerlek/PySetGo/releases).
+
 ### [RA-Viz](http://tinman.cs.gsu.edu:5020/)
 Dash-based tool for visualizing relational algebra queries.
 - Tech: **Python, HTML/CSS, Dash, Flask, SQLite3**
