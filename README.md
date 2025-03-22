@@ -11,7 +11,8 @@
   - 🔗 [Live Demo](http://tinman.cs.gsu.edu:5020/)   
 </td>
 <td>
-<img height="250" src="https://github.com/user-attachments/assets/a8b42062-95c0-41d3-8fa2-6d2a7a7c0901" />
+<img height="250" src="https://github.com/user-attachments/assets/9aeb6165-99fc-4c91-be07-0d9ef0d2ad9a" />
+  
 </td>
 </tr>
 </table>
