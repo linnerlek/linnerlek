@@ -30,11 +30,10 @@
   - 🔗 [Live Demo](http://tinman.cs.gsu.edu:5021/)  
 </td>
 <td>
-<img height="250" src="https://github.com/user-attachments/assets/b6f49352-1951-4636-9c49-9d66dfb8d816" />
+<img height="250" src="https://github.com/user-attachments/assets/40b2a0c8-8757-48a1-9235-6ba3ecce26c1" />
 </td>
 </tr>
 </table>
-
 
 <table>
 <tr>
